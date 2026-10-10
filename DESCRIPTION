@@ -1,0 +1,9 @@
+Package: beyoncePal
+Title: Dangerously in Love Color Palette
+Version: 0.1.0
+Authors@R: person("Love", "Adu", role = c("aut", "cre"))
+Description: A color palette for base R and ggplot2, sampled from photos and
+    cover art from the Dangerously in Love era.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Suggests: ggplot2

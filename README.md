@@ -1,8 +1,6 @@
 # beyoncePal
 
-An R color palette sampled from the Dangerously in Love era: the two covers and
-the Crazy in Love, Baby Boy, and Naughty Girl videos. It's the only palette for
-now.
+An R color palette sampled from Beyonce eras! Only Dangerously in Love for now, since I am lazy.
 
 ## install
 
@@ -25,8 +23,6 @@ ggplot(mpg, aes(class, fill = class)) +
   scale_fill_bey("dangerously_in_love")
 ```
 
-Colors come out in the order they're listed, so a small `n` gives you the first
-few (the dark blues and purple).
 
 ## your own colors
 

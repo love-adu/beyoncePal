@@ -1,8 +1,7 @@
 #' Get a palette
 #'
-#' @param palette a palette name (see names(bey_all())) or your own vector of colors
-#' @param n how many colors. Default is the whole palette. Asking for more than
-#'   the palette has blends between them.
+#' @param palette a palette name (see names(bey_all()))
+#' @param n how many colors. 
 #' @param reverse flip the order
 #' @param show_me plot the swatches instead of returning them
 #' @examples
